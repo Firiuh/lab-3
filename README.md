@@ -1,2 +1,5 @@
-# lab-3
-Practica de html basico en clases ;b
+# IMPLEMENTACION Y USO DEL JSON
+Contiene estructura de html
+tambien  javascrip
+estilos css 
+
